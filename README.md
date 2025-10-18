@@ -33,14 +33,6 @@ Evaluation Metric: Accuracy Score
 
 Feature Importance: Gender, Passenger Class, and Age had the most influence on survival.
 
-🚀 Future Improvements
-
-Tune hyperparameters using GridSearchCV.
-
-Try ensemble models like XGBoost or CatBoost.
-
-Deploy the model using Streamlit or Flask for a web interface.
-
 📁 Dataset
 
 Kaggle Titanic Dataset
