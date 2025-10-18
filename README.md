@@ -11,7 +11,7 @@ Language: Python
 
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
-Algorithm: Logistic Regression / Random Forest (choose your actual one)
+Algorithm: Random Forest 
 
 🧠 Approach
 
@@ -19,7 +19,7 @@ Data Cleaning: Handled missing values, encoded categorical variables, and remove
 
 EDA (Exploratory Data Analysis): Visualized relationships between survival rate and features like sex, age, class, etc.
 
-Feature Engineering: Created new meaningful features (e.g., FamilySize, Title).
+Feature Engineering: Created new meaningful features.
 
 Model Building: Trained multiple models and selected the one with the highest accuracy.
 
